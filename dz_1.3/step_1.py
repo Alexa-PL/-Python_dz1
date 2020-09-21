@@ -1,0 +1,8 @@
+n = input("Введите число n")
+print(n)
+nn = int(n)*10+int(n)
+print(nn)
+nnn = int(n)*100+int(nn)
+print(nnn)
+sum = int(n)+int(nn)+int(nnn)
+print(sum)
